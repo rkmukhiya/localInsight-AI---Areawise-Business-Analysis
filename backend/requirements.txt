@@ -1,0 +1,14 @@
+flask
+flask-cors
+flask-restful
+scikit-learn==1.6.1
+python-dotenv
+google-generativeai
+requests
+pandas
+numpy
+pydantic
+langchain
+langchain-core
+langchain-google-genai
+xgboost
